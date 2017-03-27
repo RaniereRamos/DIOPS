@@ -1,0 +1,29 @@
+# ----------------------------------------------------------------------------#
+# Boas praticas de programacao                                                #
+# 1.                                                                          #
+# 2.                                                                          #
+# 3.                                                                          #
+# 4.                                                                          #  
+# 5.                                                                          #
+# ----------------------------------------------------------------------------#
+
+# ----------------------------------------------------------------------------#
+# Projeto:  Analise Estatistica dos dados contabeis das operadoras SC (DIOPS) #
+# Objetivo: Identificar padroes e correlacoes dos indicadores                 #
+#           Analisar series historicas das contas contabeis mais importantes  #
+#           Elaborar quadros resumos de estatisticas                          #  
+#                                                                             #
+# Estatistico: Raniere Ramos           Data: 27/03/2017                       #
+# ----------------------------------------------------------------------------#
+
+
+## Seleciona o diretorio de trabalho
+setwd("C:/Databases")
+
+## Instala e carrega os pacotes necessarios no projeto
+install.packages("ggplot2", "reshape", "vegan", "maps", "readr")
+library(ggplot2)
+library(reshape)
+library(vegan)
+library(maps)
+library(readr)
