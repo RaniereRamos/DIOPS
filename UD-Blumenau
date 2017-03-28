@@ -1,9 +1,9 @@
 # ----------------------------------------------------------------------------#
 # Boas praticas de programacao                                                #
-# 1.                                                                          #
-# 2.                                                                          #
-# 3.                                                                          #
-# 4.                                                                          #  
+# 1. Nomes dos arquivos devem ter significados e salvos com extensão .R       #
+# 2. Nomes de variaveis devem ser com letras minusculas separados por .       #
+# 3. Nomes de funcoes devem iniciar com letras maiusculas (CalcAvg)           #
+# 4. O comprimento maximo da linha deve ser de 80 caracteres                  #  
 # 5.                                                                          #
 # ----------------------------------------------------------------------------#
 
