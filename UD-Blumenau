@@ -4,8 +4,11 @@
 # 2. Nomes de variaveis devem ser com letras minusculas separados por .       #
 # 3. Nomes de funcoes devem iniciar com letras maiusculas (CalcAvg)           #
 # 4. O comprimento maximo da linha deve ser de 80 caracteres                  #  
-# 5.                                                                          #
-# ----------------------------------------------------------------------------#
+# 5. Indentar o código com 2 espaços. Nunca usa tab ou espaço e tab junto     #
+# 6. Usar espaços em torno dos códigos binários (=, +, -, <-, etc)            #
+# 7. Usar espaços antes de parenteses, exceto em funcao [if (x = 1)]          #
+# 8. 
+----------------------------------------------------------------------------#
 
 # ----------------------------------------------------------------------------#
 # Projeto:  Analise Estatistica dos dados contabeis das operadoras SC (DIOPS) #
