@@ -1,30 +1,32 @@
 # ----------------------------------------------------------------------------#
-# Boas praticas de programacao                                                #
-#  1. Nomes dos arquivos devem ter significados e salvos com extensão .R      #
-#  2. Nomes de variaveis devem ser com letras minusculas separados por .      #
-#  3. Nomes de funcoes devem iniciar com letras maiusculas (CalcAvg)          #
-#  4. O comprimento maximo da linha deve ser de 80 caracteres                 #  
-#  5. Indentar o codigo com 2 espaços. Nunca usa tab ou espaço e tab junto    #
-#  6. Usar espacos em torno dos codigos binarios (=, +, -, <-, etc)           #
-#  7. Usar espacos antes de parenteses, exceto em funcao [if (x = 1)]         #
-#  8. Usar mais de 1 espaco para alinhar sinais de =                          #
-#  9. Nao usar espacos ao redor de parenteses, colchetes e chaves             #
-# 10. Quando criar uma condicao, a chave de abertura comeca na linha 1 e      #
-#     termina sozinha                                                         #
-# 11. Uma declaracao if/lse deve estar cercada por 2 chaves na mesma linha    #
-# 12. Use <- par atribuir valores, ao inves de =                              #
-# 13. Nao finalize seus comandos com ponto e virgula                          #
-# 14. Nao utilize ponto e virgula para colocar mais de um comando mesma linha #
-# 15. 
-----------------------------------------------------------------------------#
-
-# ----------------------------------------------------------------------------#
 # Projeto:  Analise Estatistica dos dados contabeis das operadoras SC (DIOPS) #
 # Objetivo: Identificar padroes e correlacoes dos indicadores                 #
 #           Analisar series historicas das contas contabeis mais importantes  #
 #           Elaborar quadros resumos de estatisticas                          #  
 #                                                                             #
 # Estatistico: Raniere Ramos           Data: 27/03/2017                       #
+# ----------------------------------------------------------------------------#
+
+
+# ----------------------------------------------------------------------------#
+# Boas praticas de programacao                                                #
+#                                                                             #
+#  1. Nomes dos arquivos devem ter significados e salvos com extensao .R      #
+#  2. Nomes de variaveis devem ser com letras minusculas separados por .      #
+#  3. Nomes de funcoes devem iniciar com letras maiusculas (CalcAvg)          #
+#  4. O comprimento maximo da linha deve ser de 80 caracteres                 #  
+#  5. Indentar o codigo com 2 espaços. Nunca usar tab ou espaço e tab junto   #
+#  6. Usar espacos em torno dos codigos binarios (=, +, -, <-, etc)           #
+#  7. Usar espacos antes de parenteses, exceto em funcao [if (x = 1)]         #
+#  8. Usar mais de 1 espaco para alinhar sinais de =                          #
+#  9. Nao usar espacos ao redor de parenteses, colchetes e chaves             #
+# 10. Quando criar uma condicao, a chave de abertura comeca na linha 1 e      #
+#     termina sozinha                                                         #
+# 11. Uma declaracao if/else deve estar cercada por 2 chaves na mesma linha   #
+# 12. Use <- par atribuir valores, ao inves de =                              #
+# 13. Nao finalize seus comandos com ponto e virgula                          #
+# 14. Nao utilize ponto e virgula para colocar mais de um comando mesma linha #
+#                                                                             #
 # ----------------------------------------------------------------------------#
 
 
